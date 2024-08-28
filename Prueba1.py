@@ -17,3 +17,6 @@ if __name__ == "__main__":
 
     print ("parece todo OK")
 
+print("¿Dime tu nombre: ")
+nombre = input()
+print(f"Me alegro de conocerte, {nombre}")
