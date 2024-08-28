@@ -13,4 +13,7 @@ if __name__ == "__main__":
     print ("texto agregado en la rama2")
 
     print ("y ahora???")
+    print ("ya hicimos merge entre ramas")
+
+    print ("parece todo OK")
 
